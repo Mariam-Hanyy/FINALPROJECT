@@ -52,9 +52,7 @@ export default function ForgetPass() {
 
     <>
 
-        <Helmet>
-        <title>Forget Password</title>
-        </Helmet>
+        
 
     <div className='my-5 py-5 text-center container w-50'>
         <h3 className='mb-3 text-main'>Reset Password</h3>
